@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pedro",
+      "age:": 22,
+      "birthday": "1998/10/15",
+      "address": {
+        "name": "Calle las pruebas",
+        "city": "Málaga",
+        "country": "Spain",
+        "postalCode": "29001"
+      },
+      "lenguajes": ["Typescript", "Javascript"],
+      "image": "/api/assets/user-h.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ana",
+      "age:": 22,
+      "birthday": "1995/02/23",
+      "address": {
+        "name": "Avenida testing",
+        "city": "Cádiz",
+        "country": "Spain",
+        "postalCode": "11001"
+      },
+      "lenguajes": ["Java", "PHP"],
+      "image": "/api/assets/user-m.jpg"
+    }
+  ]
+}
